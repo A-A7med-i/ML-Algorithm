@@ -23,7 +23,7 @@ ML-Algorithm/
 ├── SVM/
 │   ├── svm.py          # Implementation of Support Vector Machine
 │   ├── main.py         # Example usage of SVM
-│   └── REAMD.md        # Documentation for SVM
+│   └── README.md        # Documentation for SVM
 │
 ├── requirements.txt     # Project dependencies
 ├── setup.py             # Package setup
